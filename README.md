@@ -1,2 +1,2 @@
 # netflix-clone-dio
-Projeto Clone da Home Netflix - BootCamp Avanade
+Projeto NETKIDS - Clone da Home da NETFLIX com Nova Roupagem.
